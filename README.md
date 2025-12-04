@@ -1,8 +1,8 @@
 ---
 title: Linear Search App
 emoji: "🔍"
-colorFrom: "#4CAF50"
-colorTo: "#81C784"
+colorFrom: green
+colorTo: blue
 sdk: gradio
 sdk_version: "3.34"
 app_file: app.py
