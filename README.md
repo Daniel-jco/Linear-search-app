@@ -51,13 +51,13 @@ For linear search in general:
 - We would then be able to work with the numbers, so we can go through the algorithm step by step to check if we have found the target value
 - The process should be visually shown to the user while it happens. Internally the array will be a list of numbers but it should show something visual to the user. I am not yet familiar with the gradio GUI so I am not exactly sure how it will be displayed, but it is important that they can see what the current element is.
 - The user should also see an output box where we can display if they target has been found at the current index, if the target has not been found at the current index, or if the target is not in the array. 
-![alt text](Linear_Search_Flowchart.png)
 
+NOTE: The flow chart can be found in the google drive link posted above. I was not able to push to HuggingFace with the image files in the markdown. 
 ## Steps to Run
-Simply enter a comma seperated array into the input box and a target value in the target box. You will then be able to click start search. Then just click the next step button to step through the algorithm. 
+Simply enter a comma seperated array into the input box and a target value in the target box. You will then be able to click start search. Then just click the next step button to step through the algorithm. You can also use the complete search feature after selecting start search to have the algorithm complete on its own. 
 
 ## Hugging Face Link
-
+https://huggingface.co/spaces/DanielJCO/Linear_Search
 
 ## Author & Acknowledgment
 This app was created by Daniel Cohen. ChatGPT was used with usage level 4. It's main uses was writing draft code for the HTML components as well as suggesting refactors to improve modularity by creating helper functions compute_step() and error_state(). It was also used throughout the project for debugging and suggesting various gradio features that I could use for the project. 
