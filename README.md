@@ -14,9 +14,7 @@ pinned: false
 Linear search was the first sorting algorithm I learned, and like most people, I was using it before I really knew what a searching algorithm was. Needing to find a target element in an unsorted array is an extremeley common problem, and it has an extremely intuitive solution: loop through the array and check each element. Many people figure out this solution on their own before the idea of "searching algorithm" is even taught, simply because it comes up so often. It is not the most efficient searching algorithm, but it may very well be the most versatile. I have had no experience working with GUI before, so I figured that choosing a simple, intuitive searching algorithm would allow me to focus on learning the basics of gradio. 
 
 ## Demo video/screenshots of test
-![alt text](<Screenshot 1.png>)
-![alt text](<Screenshot 2.png>)
-Link to video: https://drive.google.com/file/d/1iIjT3J3Gzqu3WcMAqiAN7zw6NEbaVBAi/view?usp=drive_link
+Link to video, screenshots, and flow chart: https://drive.google.com/drive/folders/1s4l9euvAodvVnFGkx4hI6EXrSJWLWJu5?usp=drive_link
 
 ## Problem Breakdown & Computational Thinking 
 ### Decomposition
