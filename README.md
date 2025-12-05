@@ -16,7 +16,7 @@ Linear search was the first sorting algorithm I learned, and like most people, I
 ## Demo video/screenshots of test
 ![alt text](<Screenshot 1.png>)
 ![alt text](<Screenshot 2.png>)
-<video controls src="Demo Video.mp4" title="Title"></video>
+Link to video: https://drive.google.com/file/d/1iIjT3J3Gzqu3WcMAqiAN7zw6NEbaVBAi/view?usp=drive_link
 
 ## Problem Breakdown & Computational Thinking 
 ### Decomposition
